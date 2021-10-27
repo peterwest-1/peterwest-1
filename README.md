@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
-<h3 align="center">I'm Peter West and I'm currently 26 years old. I enjoy solving problems and learning new things. I love automating the most menial tasks possible </h3>
+<h3 align="center">I'm Peter West and I'm currently 27 years old. I enjoy solving problems and learning new things. I love automating the most menial tasks possible </h3>
 <h3 align="center">Bachelor of Science Applied Mathematics and Computer Science</h3>
 
 <h4 align="center"><i>Never spend 6 minutes doing something by hand when you can spend 6 hours failing to automate it</i></h4>
