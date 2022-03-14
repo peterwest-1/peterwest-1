@@ -30,11 +30,11 @@ This list changes every week so probably out of date already.
 
 ---
 
-#### Personal Website
-- Express based web application for http://peterwestmedia.com to be deployed on AWS EC2
-- For Portfolio, blog and privacy policies 
-- Currently offline during rework
-- [Peter West Media](https://github.com/peterwest-1/peterwestmedia)
+#### Portfolio and Resume Website
+- https://www.petewest.me/
+- Next.js site with Sanity.io content management system
+- Portfolio and project platform 
+- [petewest.me](https://github.com/peterwest-1/peterwest-portfolio)
 
 #### Explore 
  - Application that allows users to discover new places to travel
@@ -56,7 +56,6 @@ This list changes every week so probably out of date already.
 - Dating app where there are no pictures, just conversations 
  - iOS 14 application using Swift 5 and SwiftUI
  -  Repo currently private, to be made public soon
-
 <!--
 **peterwest-1/peterwest-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
