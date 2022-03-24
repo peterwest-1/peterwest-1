@@ -36,26 +36,6 @@ This list changes every week so probably out of date already.
 - Portfolio and project platform 
 - [petewest.me](https://github.com/peterwest-1/peterwest-portfolio)
 
-#### Explore 
- - Application that allows users to discover new places to travel
- - iOS 14 application using Swift 5 and SwiftUI
- - Repo currently private, to be made public soon
-
-#### Warranty 
-- Store and get reminders of expiring warranties
- - iOS 14 application using Swift 5 and SwiftUI
- - Repo currently private, to be made public soon
-
-#### Fishing South Africa 
-- Look up regulations and rules of fishing in South Africa
-- Record catches with weather and location data automatically
- - iOS 14 application using Swift 5 and SwiftUI
- -  Repo currently private, to be made public soon
-
-#### Blind Date 
-- Dating app where there are no pictures, just conversations 
- - iOS 14 application using Swift 5 and SwiftUI
- -  Repo currently private, to be made public soon
 <!--
 **peterwest-1/peterwest-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
