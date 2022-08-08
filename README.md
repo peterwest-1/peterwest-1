@@ -22,10 +22,7 @@ Not very active on social media, but here they are.
 This list changes every week so probably out of date already.
 
 - [Personal Website](#personal-website)
-- [Explore](#explore)
 - [Warranty](#warranty)
-- [Fishing South Africa](#fishing-south-africa)
-- [Blind Date](#blind-date)
 
 
 ---
